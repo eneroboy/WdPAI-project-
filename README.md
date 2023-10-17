@@ -1,4 +1,3 @@
-```markdown
 # My Web Application
 
 Welcome to my web application! In this README, I'll provide you with all the necessary information to understand, install, and use my application effectively.
